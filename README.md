@@ -41,8 +41,9 @@ This will launch the app in your default browser, typically at http://localhost:
 
 
 ## Usage
--**Add a Snippet**: Type your snippet in the input field and click the "Save" button to store it.
--**Edit a Snippet**: Click on a snippet to edit its contents and save the changes.
--**Delete a Snippet**: Click the trash icon next to any snippet to delete it permanently.
--**Copy to Clipboard**: Click the copy icon to copy the snippet text to your clipboard for easy reuse
+
+- **Add a Snippet**: Type your snippet in the input field and click the "Save" button to store it.
+- **Edit a Snippet**: Click on a snippet to edit its contents and save the changes.
+- **Delete a Snippet**: Click the trash icon next to any snippet to delete it permanently.
+- **Copy to Clipboard**: Click the copy icon to copy the snippet text to your clipboard for easy reuse
 
