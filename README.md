@@ -28,11 +28,14 @@ cd Quick-Paste
 ```
 
 ### 2. Install Dependencies
+```bash
 npm install
-
+```
 ### 3. Start the App
 Once all dependencies are installed, start the React development server:
+```bash
 npm run dev
+```
 
 This will launch the app in your default browser, typically at http://localhost:3000.
 
