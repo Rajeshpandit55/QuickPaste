@@ -25,6 +25,7 @@ Quick Paste is a simple yet efficient application that allows users to write, sa
 ```bash
 git clone https://github.com/Rajeshpandit55/Quick-Paste.git
 cd Quick-Paste
+```
 
 ### 2. Install Dependencies
 npm install
