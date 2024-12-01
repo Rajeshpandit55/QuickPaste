@@ -3,7 +3,7 @@
 Quick Paste is a simple yet efficient application that allows users to write, save, and reuse text snippets or code for later use. It provides an easy interface to create, update, view, and delete content. Built using **ReactJS**, **Redux**, and **Tailwind CSS**, this app is designed to store frequently used snippets and make them accessible with just a click.
 
 
-UI of Online Payment Fraud Detection(onlineFraudDetectionImage.png)
+
 
 
 ## Features
